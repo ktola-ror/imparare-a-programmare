@@ -13,6 +13,10 @@ var one = 'Star';
 var two = 'Wars';
 
 // Implementa qui il tuo codice
+var vuoto = '';
+one = vuoto;
+two= one
+vuoto= two;
 
 console.log('one: '+one);
 console.log('two: '+two);
